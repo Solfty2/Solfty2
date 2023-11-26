@@ -8,5 +8,5 @@
   
 My Name is Onat Currently learning data science
  
-- [Kaggle]https://www.kaggle.com/onatsezer
+- [Kaggle](https://www.kaggle.com/onatsezer)
 - [Email](mailto:sezeronat418@gmail.com)
