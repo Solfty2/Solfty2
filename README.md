@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**Solfty2/Solfty2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- HEADER -->
+<h3 align="center">
+<br>Welcome to my GitHub!
+</h3>
+ 
+<h1 align="center">Hi there, I'm Kadir Onat Sezer </a> <img src="https://user-images.githubusercontent.com/64318469/176737130-33ef105d-385a-43e4-a68e-33ac3f19ab12.gif" height="32" /></h1>
+ 
+  
+My Name is Onat Currently learning data science
+ 
+- [Kaggle]https://www.kaggle.com/onatsezer
+- [Email](mailto:sezeronat418@gmail.com)
